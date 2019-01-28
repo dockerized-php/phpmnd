@@ -1,7 +1,9 @@
 # Docker image for [PHPMND](https://github.com/povils/phpmnd) - PHP Magic Number Detector
 
 [![Build Status](https://travis-ci.org/dockerized-php/phpmnd.svg?branch=master)](https://travis-ci.org/dockerized-php/phpmnd)
+[![Docker Build](https://img.shields.io/docker/build/dockerizedphp/phpmnd.svg)](https://hub.docker.com/r/dockerizedphp/phpmnd)
 [![Docker Pulls](https://img.shields.io/docker/pulls/dockerizedphp/phpmnd.svg)](https://hub.docker.com/r/dockerizedphp/phpmnd)
+[![](https://images.microbadger.com/badges/image/dockerizedphp/phpmnd.svg)](https://microbadger.com/images/dockerizedphp/phpmnd)
 
 The image is based on [Alpine Linux](https://alpinelinux.org/) and built daily.
 
